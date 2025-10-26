@@ -1,0 +1,5 @@
+{
+  "name": "AI Exam Generator",
+  "description": "An AI-powered tool for educators to automatically generate exams from study materials. Teachers can upload documents, specify question types, and receive a ready-to-use exam for online use or PDF export. Includes features for student management and results tracking.",
+  "requestFramePermissions": []
+}
